@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on this RPG Game
-- 🌱 I’m currently learning Unity and C#
-- 👯 I’m looking to collaborate on Game and web Development.
-- 🤔 I’m looking for Summer internships.
-- 💬 Ask me about Android Development and some C++
-- 📫 How to reach me: Utsavkc789@gmail.com
+- 🔭 I’m currently working as a software engineer in Ayoka Systems.
+- 🌱 I’m currently learning Unity and C#.
+- 👯 I’m looking to collaborate on web Development.
+- 🤔 I’m looking for Fulltime and Summer internships.
+- 💬 Ask me about Android Development or any Web Development questions.
+- 📫 How to reach me: kc_utsav@outlook.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love playing FPS games!
+- ⚡ Fun fact: I am into Leetcode and soccer.
 -->
