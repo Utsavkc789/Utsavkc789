@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a software engineer in Ayoka Systems.
+- 🔭 I’m currently working as a software engineer.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on web Development.
 - 🤔 I’m looking for Fulltime and Summer internships.
