@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a software engineer.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🔭 I’m currently working as a FrontEnd Engineer.
+- 🌱 I’m currently learning NEXTJS.
 - 👯 I’m looking to collaborate on web Development.
-- 🤔 I’m looking for Fulltime and Summer internships.
+- 🤔 I’m looking for Fulltime opportunities.
 - 💬 Ask me about Android Development or any Web Development questions.
 - 📫 How to reach me: kc_utsav@outlook.com
 - 😄 Pronouns: He
