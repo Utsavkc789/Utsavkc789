@@ -8,4 +8,3 @@
 - 📫 How to reach me: kc_utsav@outlook.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am into Leetcode and soccer.
--->
