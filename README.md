@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a FrontEnd Engineer.
-- 🌱 I’m currently learning NEXTJS.
+- 🔭 I’m currently working as a Backend Engineer Intern.
+- 🌱 I’m currently learning NODEJS.
 - 👯 I’m looking to collaborate on web Development.
 - 🤔 I’m looking for Fulltime opportunities.
 - 💬 Ask me about Android Development or any Web Development questions.
